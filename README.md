@@ -14,5 +14,4 @@ Backend: Spring Boot, Spring MVC, Hibernate (JPA), Maven, Java
 Database: MySQL
 Frontend: JSP, HTML, CSS, JavaScript, Bootstrap
 
-<img width="1871" height="859" alt="Screenshot 2026-02-06 112030" src="https://github.com/user-attachments/assets/ec2445e7-28e3-4b42-9a1c-6a1a0be52c1d" />
 
